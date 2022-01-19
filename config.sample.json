@@ -1,0 +1,14 @@
+{
+    "reddit_client_id": "",
+    "reddit_client_secret": "",
+    "reddit_refresh_token": "",
+
+    "view_engine_host": "http://localhost",
+    "view_engine_port": 3030,
+
+    "frame_height": 1920,
+    "frame_width": 1080,
+    "scale_factor": 3,
+
+    "google-tts-key":""
+}

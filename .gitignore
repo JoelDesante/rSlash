@@ -1,0 +1,7 @@
+.DS_Store
+.env
+config.json
+output.mp4
+temp/
+keys/
+node_modules/
